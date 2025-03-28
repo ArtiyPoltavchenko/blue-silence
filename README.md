@@ -28,3 +28,44 @@ __|  \/\|/   /(____|/ //                    /  /||~|~|~|__
   |___\_/   /________//   ________         /  / ||_|_|_|
   |___ /   (|________/   |\_______\       /  /| |______|
       /                  \|________)     /  / | |
+
+
+ # 📂 Police Archive – Initial Incident Report  
+**Filed by:** Bergen Seaport Authority  
+**Date:** September 20, 2019  
+**Case Reference:** #NS-1970-FALL
+
+---
+
+### 📝 Summary
+
+On the evening of September 19, 2019, the private yacht *The Northern Star* reported the disappearance of one passenger, Ms. Natalia Merrow.
+
+According to the ship’s log and initial crew statements, the passenger likely fell overboard sometime between 22:45 and 23:15 while on deck alone.
+
+Weather conditions were reported as calm.  
+No witnesses.  
+No distress call.  
+No body was recovered.
+
+The case was closed as a **non-suspicious accidental fall at sea.**
+
+---
+
+### 👥 Registered Onboard (Manifest)
+
+**Crew:**
+- Capt. Erik Jensen  
+- Mila Novak (Chef)  
+- Jonas Karlsen (Engineer)
+
+**Guests:**
+- Natalia Merrow (Actress) *(deceased)*  
+- Marla Vance (Actress)  
+- Peter Lin (Producer)  
+- Dominic Ward (Talent Agent)
+
+---
+
+📎 *End of report.*
+     
